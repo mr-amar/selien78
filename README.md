@@ -1,4 +1,4 @@
-### Hi there, I'm Selie Hadi Saputra 👋
+### Hi there, I'm Selien Hadi Saputra 👋
 
 [<img alt="Gmail" src="https://img.shields.io/badge/selienhadi123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
