@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Selie Hadi Saputra 👋
 
-<!--
-**selien78/selien78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img alt="Gmail" src="https://img.shields.io/badge/selienhadi123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][EMAIL]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a Student !!
+
+- 🌱 I’m learned Multimedia Basic 😊
+
+### Connect with me:
+
+[<img alt="Instagram" src="https://img.shields.io/badge/Selien Hadi Saputra %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][INSTAGRAM]
+[<img alt="Twitter" src="https://img.shields.io/badge/Selien Hadi %20-%7FFFD4.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][TWITTER]
+
+
+![SelienHadiSaputra GitHub stats](https://github-readme-stats.vercel.app/api?username=selien78&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selien78&layout=compact&theme=blueberry)
+
+[INSTAGRAM]: https://www.instagram.com/selien.hadi
+[TWITTER]: https://www.twitter.com/HadiSelien
+[EMAIL]: mailto:selienhadi123@gmail.com
